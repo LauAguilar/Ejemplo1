@@ -1,0 +1,29 @@
+3era clase
+Fork--> robar codigo Copia del original
+Clone--> 
+
+cd desktop
+cd carpeta
+
+
+Crear un repositorio
+
+git init--> para convertir en un repositorio
+git add
+git commit -m ""
+
+Crear el repositorio  remoto
+
+cuenta
+repositorio
+publico y privado
+readme --> expkicar la descripcion de un el codigo
+
+
+git remoto add origin (url)
+verificar 
+git remoto -v
+(deveria salir push  fetch)
+
+git push origin master 
+saldra probablemente usuario o contraseña
