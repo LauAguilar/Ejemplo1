@@ -27,3 +27,9 @@ git remoto -v
 
 git push origin master 
 saldra probablemente usuario o contraseña
+
+para subir cambios 
+
+git add
+git commit -m""
+git push origin master 
